@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Aditya-Singh26/Aditya-Singh26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aditya-Singh26/Aditya-Singh26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--!>
 
 Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Aditya Pratap Singh</h1>
