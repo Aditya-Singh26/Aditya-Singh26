@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **adityapratap.singh43@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12a_lBqqnOr0DzGLiE6TOH66fVmLEbCQ_/view?usp=sharing](https://drive.google.com/file/d/12a_lBqqnOr0DzGLiE6TOH66fVmLEbCQ_/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/singh-aditya26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="singh-aditya26" height="30" width="40" /></a>
