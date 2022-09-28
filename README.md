@@ -3,7 +3,6 @@
 <!--
 **Aditya-Singh26/Aditya-Singh26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--!>
 
-Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Aditya Pratap Singh</h1>
 <h3 align="center">A passionate Backend Developer with proficiency in Core Java, JPA Hibernate and Spring Boot. Looking forward to applying and enhancing my skills and knowledge as a backend developer through challenging and exciting opportunities.</h3>
 
