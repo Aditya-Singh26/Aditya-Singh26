@@ -28,9 +28,6 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya-singh26&show_icons=true&locale=en&layout=compact" alt="aditya-singh26" /></p>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aditya-Singh26&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="Aditya-Singh26" height="139" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya-singh26&show_icons=true&locale=en" alt="aditya-singh26" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-singh26&" alt="aditya-singh26" /></p>
-
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Singh26&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="Aditya-Singh26" height="139" />
