@@ -30,6 +30,6 @@
 
 
 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aditya-Singh26&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="Aditya-Singh26" height="139" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=Aditya-Singh26&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="Aditya-Singh26" height="139" />
 
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Singh26&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="Aditya-Singh26" height="139" />
+   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Singh26&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="Aditya-Singh26" height="139" />
