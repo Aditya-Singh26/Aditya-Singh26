@@ -27,8 +27,8 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a></p>
 
-
+ <img align="justify" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Singh26&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="Aditya-Singh26" height="139" />
 
  <img align="justify" src="https://github-readme-stats.vercel.app/api?username=Aditya-Singh26&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="Aditya-Singh26" height="139" />
 
-   <img align="justify" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Singh26&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="Aditya-Singh26" height="139" />
+  
